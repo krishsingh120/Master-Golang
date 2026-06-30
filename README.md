@@ -28,5 +28,11 @@ go build <file_path>
 ### Direct run go program
 ```bash
 go run <file_path>
-
 ```
+
+### Arrays in Go -> Medium article
+
+> https://medium.com/@shadeshsaha45/understanding-arrays-in-go-e87e6bfe4fb8
+
+### Maps in Go -> Medium article
+> https://medium.com/@murat.bilal/maps-in-golang-bc21a6c88dc1
