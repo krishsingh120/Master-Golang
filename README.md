@@ -36,3 +36,6 @@ go run <file_path>
 
 ### Maps in Go -> Medium article
 > https://medium.com/@murat.bilal/maps-in-golang-bc21a6c88dc1
+
+### Interfaces in go -> Medium article
+> https://medium.com/@jamal.kaksouri/understanding-the-power-of-go-interfaces-a-comprehensive-guide-835954101b7e
