@@ -58,5 +58,8 @@ go run <file_path>
 ### Concurrency in Go:
 > https://medium.com/@nagarjun_nagesh/concurrency-in-go-understanding-mutex-channels-and-their-differences-bbdf5441ce59
 
+### Golang Fundamentals: File Handling and I/O
+> https://medium.com/@nagarjun_nagesh/golang-fundamentals-file-handling-and-i-o-502d50b96795
+
 ### Imp lib in Go
 > https://medium.com/@utsavmadaan823/the-ultimate-go-web-development-arsenal-10-essential-libraries-every-developer-needs-01d021993088
